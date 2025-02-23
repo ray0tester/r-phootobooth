@@ -1,1 +1,1 @@
-# r-phootobooth
+# jstudio-photobooth
